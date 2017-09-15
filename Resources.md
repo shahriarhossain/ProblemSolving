@@ -11,4 +11,8 @@
 #### Knapsack dynamic programming: 
 https://en.wikipedia.org/wiki/Knapsack_problem
 1. [Video : Knapsack Basic I](https://www.youtube.com/watch?v=33k8EPNriTM)
-2. [Video : Knapsack Basic II](https://www.youtube.com/watch?v=PLJHuErj-Tw)
+2. [Video : 0/1 Knapsack Simulation and code](https://www.youtube.com/watch?v=ipRGyCcbrGs)
+3. [Video : 0/1 Knapsack Implemantation](https://www.youtube.com/watch?v=YRBON9sIZ2Y)
+4. [Video : 0/1 Knapsack Simulation and code](https://www.youtube.com/watch?v=CUAolXf8u-U)
+5. [Video : Knapsack Basic II](https://www.youtube.com/watch?v=PLJHuErj-Tw)
+6. [Video : Knapsack MIT Lecture](https://www.youtube.com/watch?v=wFP5VHGHFdk&t=699s)
