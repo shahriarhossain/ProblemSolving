@@ -8,8 +8,8 @@
 1. [DP from novice to advance](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 
 
-#### Knapsack dynamic programming: 
-https://en.wikipedia.org/wiki/Knapsack_problem
+#### Knapsack Problem: 
+##### 0/1 Knapsack:
 1. [Video : What is 0/1 Knapsack Problem](https://www.youtube.com/watch?v=33k8EPNriTM)
 2. [Video : 0/1 Knapsack Simulation and code](https://www.youtube.com/watch?v=ipRGyCcbrGs)
 3. [Video : 0/1 Knapsack Implemantation](https://www.youtube.com/watch?v=YRBON9sIZ2Y)
@@ -19,3 +19,7 @@ https://en.wikipedia.org/wiki/Knapsack_problem
 7. [Video : Knapsack MIT Lecture II](https://www.youtube.com/watch?v=x0SJ_5A5MlA&t=999s)
 8. [Video : 0/1 Knapsack using Branch and Bound method](https://www.youtube.com/watch?v=slayHO7gKEQ)
 9. [Video : 0/1 Knapsack using Branch and Bound method simulation (Hindi)](https://www.youtube.com/watch?v=QXsgZk9WT14)
+
+##### Fractional Knapsack:
+1. [Video : Fractional Knapsack using Greedy approach](https://www.youtube.com/watch?v=m1p-eWxrt6g)
+2. [Code: Fractional Knapsack implementation](https://www.dyclassroom.com/greedy-algorithm/fractional-knapsack-problem)
