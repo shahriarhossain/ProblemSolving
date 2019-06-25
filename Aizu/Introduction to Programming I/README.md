@@ -47,3 +47,4 @@ Character:
 ==========
 Toggling Cases -> Try to memorize the ascii value for 'a' and 'A'. Casting a char into int will return the ascii value of that character. Try this.
 Sum of Numbers -> Take the entire input as string and then take each character of that string and convert it to int and add it with previous summation. Try this. 
+Counting Characters - > Make the upper case letter to lower case, avoid processing special character. Must Try it. 
